@@ -1,0 +1,10 @@
+h1 {
+  font-size: 3em;
+  color: rebeccapurple;
+}
+
+#main-list {
+  border: 4px dotted blue;
+  border-radius: 10px;
+  margin: 10px auto;
+}
